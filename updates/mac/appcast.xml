@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Remote Fit for macOS</title>
+    <link>https://github.com/bunajianke/remote-fit/releases</link>
+    <description>Remote Fit macOS updates</description>
+    <item>
+      <title>Remote Fit 0.1.2</title>
+      <pubDate>Wed, 14 Oct 2026 10:43:47 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>新增在线更新。更新保留设置，远程会话期间推迟安装。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/v0.3.0/RemoteFit-mac-universal.dmg" length="2093512" type="application/octet-stream" sparkle:edSignature="VfIKOgjpEfV4Fs0s/v2JjEq2QtPxfA24VtKYXojEndZEwp2yxo/1JKC7Tx5TzEfdPr2SRMe+LydSqj2MGWowDQ=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: KdYd9lr4b3SyEUf+S9gd+9JPKQt904eHtYkMuYxG0RB9yCmKptBEuggQcQ8NsqYtiN8yL3Gd8m1J50YcC9UeCQ==
+length: 1274
+-->
