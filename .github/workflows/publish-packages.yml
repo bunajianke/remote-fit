@@ -1,0 +1,22 @@
+name: Upload verified download packages
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing draft release tag
+        required: true
+        default: v0.3.0
+permissions:
+  contents: write
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and upload packages to draft
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.tag }}
+          ARTIFACT_X64: ${{ secrets.REMOTE_FIT_ARTIFACT_X64 }}
+          ARTIFACT_ARM64: ${{ secrets.REMOTE_FIT_ARTIFACT_ARM64 }}
+        run: python3 .github/scripts/publish-packages.py
