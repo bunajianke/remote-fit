@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.3</title>
-      <pubDate>Thu, 15 Oct 2026 04:46:17 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.4</title>
+      <pubDate>Thu, 15 Oct 2026 05:09:50 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>断开后复查原始分辨率与刷新率，处理先恢复桌面、随后又回到远程模式或 30 Hz 的情况；新连接暂停上次还原，失败保留恢复记录。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.3/RemoteFit-mac-universal.dmg" length="2124415" type="application/octet-stream" sparkle:edSignature="Z7jG5PiASNJi/Z9FELNrDbgIk7rAEqyL88jMIm3fqSCoHryhqRJg+Fuc/t3bGA6gs6+w3LUpejnsk5MOvzXLAQ=="></enclosure>
+      <description>保存 UU 连接前的本地显示模式，避免把远程分辨率或 30 Hz 当作原始配置；断开后复查分辨率与刷新率，稳定后再清除恢复记录。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.4/RemoteFit-mac-universal.dmg" length="2137356" type="application/octet-stream" sparkle:edSignature="mlSYiMgwtNyXyBBz7faluU8aBPs/bpxBATQ9RRfWA9dU3uojPfurO6triC7eSQebCA337/jMjkzaGiiG0DlNAA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bJLqANuUIRTxtFqsyIuIXaMpG5NekqIFpNXDWjLCtKucXx0aquD8iHJ9cs0P4n+L1O7ZbDQ2tpntON5dzsxrDQ==
-length: 1378
+edSignature: cenpNZbRnU8pbBScNaSG3Rehj+IPZztXlTrmF91pmrINAU4IKSB6GkpUKAYLa5R2m3lmMs7mS6YOwy1X7t29Cw==
+length: 1373
 -->
