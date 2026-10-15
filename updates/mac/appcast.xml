@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.5</title>
-      <pubDate>Thu, 15 Oct 2026 09:10:48 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.6</title>
+      <pubDate>Thu, 15 Oct 2026 10:17:31 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>工具条改为 46 点紧凑图标，新增贴边窗口自动避让与还原，优化侧栏及窄屏导航。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.5/RemoteFit-mac-universal.dmg" length="2255467" type="application/octet-stream" sparkle:edSignature="KMvYruNj3ozdo1+of7DH/4FbUGJrtYhWFwXRte567hOYQV4QZvZe3V7BKcj1I6qxYRCzWAL0HwxiAPY4dR8xDQ=="></enclosure>
+      <description>停靠操作栏占满屏幕边缘，按钮带图标文字；普通窗口再次最大化自动避让，修复副屏窗口调整与还原。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.6/RemoteFit-mac-universal.dmg" length="2268733" type="application/octet-stream" sparkle:edSignature="O77UfEF2I0eYvLWpWke7htfMrEU/7XCpsRxfSlOSMN5JNw4xe8hXmX37yHCrh/T90UeQQhNtY8H+xmbxPp9cCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BXYxGA4yLgg0ZZAeqGkYkVNUxsbqfh8R5WKKFDAgD456jVZCN33dh4o4gr5usIzoLMJLytlaJr3GStw9teoUAg==
-length: 1312
+edSignature: 6S5D4iRoQ5jiFSnJWP3nl4m9DEdGfQCygTRvC+50kaurrQngfxwT5+g/gWLsPR8PoQOdUVTaiPoy3hUJjnRPDA==
+length: 1341
 -->
