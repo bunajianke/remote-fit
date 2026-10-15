@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.4</title>
-      <pubDate>Thu, 15 Oct 2026 05:09:50 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.5</title>
+      <pubDate>Thu, 15 Oct 2026 09:10:48 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>保存 UU 连接前的本地显示模式，避免把远程分辨率或 30 Hz 当作原始配置；断开后复查分辨率与刷新率，稳定后再清除恢复记录。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.4/RemoteFit-mac-universal.dmg" length="2137356" type="application/octet-stream" sparkle:edSignature="mlSYiMgwtNyXyBBz7faluU8aBPs/bpxBATQ9RRfWA9dU3uojPfurO6triC7eSQebCA337/jMjkzaGiiG0DlNAA=="></enclosure>
+      <description>工具条改为 46 点紧凑图标，新增贴边窗口自动避让与还原，优化侧栏及窄屏导航。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.5/RemoteFit-mac-universal.dmg" length="2255467" type="application/octet-stream" sparkle:edSignature="KMvYruNj3ozdo1+of7DH/4FbUGJrtYhWFwXRte567hOYQV4QZvZe3V7BKcj1I6qxYRCzWAL0HwxiAPY4dR8xDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cenpNZbRnU8pbBScNaSG3Rehj+IPZztXlTrmF91pmrINAU4IKSB6GkpUKAYLa5R2m3lmMs7mS6YOwy1X7t29Cw==
-length: 1373
+edSignature: BXYxGA4yLgg0ZZAeqGkYkVNUxsbqfh8R5WKKFDAgD456jVZCN33dh4o4gr5usIzoLMJLytlaJr3GStw9teoUAg==
+length: 1312
 -->
