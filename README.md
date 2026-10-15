@@ -10,7 +10,9 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/bunajianke/remote-fit/releases/latest)。Windows 选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**；Mac 下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。
+Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
+
+Mac：前往 [macOS 0.1.3 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.3)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
 
 Windows 10/11，x64 或 ARM64。Mac 需要 macOS 14 或更新版本，支持 Apple 芯片与 Intel。
 
