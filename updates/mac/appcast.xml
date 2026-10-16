@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.7</title>
-      <pubDate>Thu, 15 Oct 2026 12:43:23 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.8</title>
+      <pubDate>Fri, 16 Oct 2026 08:30:49 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复窗口概览：直接调用系统 Mission Control，无需依赖 Control+↑ 或前台窗口。工具条支持首次点击并在点击前记录目标应用，快捷键定向发送；操作失败时在工具条旁显示原因。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.7/RemoteFit-mac-universal.dmg" length="2303753" type="application/octet-stream" sparkle:edSignature="Jo5abZwhsguBpBfb9O0ZusbMo+MHrzouVCUYw/0dWOmPBorOyK5/7stkbTu/V7WB7aGQjsKf/YOcOPq7Qvg7Cg=="></enclosure>
+      <description>统一设置窗口的标题栏和侧栏背景，移除重复窗口标题，修复分隔线在标题栏下沿错位的问题；保留宽窄窗口的导航适配。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.8/RemoteFit-mac-universal.dmg" length="2312052" type="application/octet-stream" sparkle:edSignature="eDgc3shXh8IeMxQOJLC00O/AVf76RuNoaooO/m2xdsfcLOTHzqPnI7dU/pW0VFRhI9y3TWykc/spQHVVphnACg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3n+GqTcyt2owaIBAM2t9jdAFcq+FwGKHxLJ+LfZMCueAQBrJbxvkgcnpnmgwsLSM2dROu7VXtUimH+I8P0bQAg==
-length: 1436
+edSignature: +5xMHi4cQR7IAFV/AEtRMtMjPRnb/9va5gWVzC2/p9eIRt3AR0q2idiDAwTaYThuc0nPcnd5KF+URgCqFMwFDA==
+length: 1365
 -->
