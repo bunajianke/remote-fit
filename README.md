@@ -12,9 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.8 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.8)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.9 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.9)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
 
-Mac 0.1.8 修复设置窗口标题栏与侧栏分界错位，统一标题栏背景并隐藏重复窗口标题。窗口概览直接打开系统 Mission Control；工具条操作失败时就近提示。停靠操作栏占满对应屏幕边缘，普通窗口再次最大化会自动避让；自由模式保留短工具条。快捷键、窗口操作及避让需要辅助功能权限。
+Mac 0.1.9 新增最大化／还原、前后桌面切换，以及窗口居中、显示桌面和切换应用预设。在“悬浮工具条 → 常用操作 → 添加常用操作”中选择，保留已有按钮。最大化为停靠工具栏预留空间；窗口操作及系统快捷键需要辅助功能权限。桌面切换需有多个 Spaces 并启用对应系统快捷键，支持自定义组合。
 
 Windows 10/11，x64 或 ARM64。Mac 需要 macOS 14 或更新版本，支持 Apple 芯片与 Intel。
 

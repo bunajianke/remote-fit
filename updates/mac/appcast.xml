@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.8</title>
-      <pubDate>Fri, 16 Oct 2026 08:30:49 +0000</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.9</title>
+      <pubDate>Fri, 16 Oct 2026 17:04:07 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>统一设置窗口的标题栏和侧栏背景，移除重复窗口标题，修复分隔线在标题栏下沿错位的问题；保留宽窄窗口的导航适配。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.8/RemoteFit-mac-universal.dmg" length="2312052" type="application/octet-stream" sparkle:edSignature="eDgc3shXh8IeMxQOJLC00O/AVf76RuNoaooO/m2xdsfcLOTHzqPnI7dU/pW0VFRhI9y3TWykc/spQHVVphnACg=="></enclosure>
+      <description>新增最大化／还原、上一个／下一个桌面，以及窗口居中、显示桌面和切换应用预设。在悬浮工具条的添加常用操作菜单中选择，保留已有自定义按钮。桌面切换使用可编辑的系统快捷键。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.9/RemoteFit-mac-universal.dmg" length="2384957" type="application/octet-stream" sparkle:edSignature="n7lGGUyD7u8oFi+jVoMdPNg1AeKTgzLCvx6migbtf0pnamBnQ6KdvpsWYRW7UNaJ/0hn2TtBJGF/CuGa2xHOAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +5xMHi4cQR7IAFV/AEtRMtMjPRnb/9va5gWVzC2/p9eIRt3AR0q2idiDAwTaYThuc0nPcnd5KF+URgCqFMwFDA==
-length: 1365
+edSignature: fM/t+Ja4ngcXa7nd3/LNojzvDZ3ZvWcwbZdowIk4DfJ6IFgITkC5lfjLp/Z9+NQXb98KRpUwXU8h2yLGKMO8Cw==
+length: 1453
 -->
