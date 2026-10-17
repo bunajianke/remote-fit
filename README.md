@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.11 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.11)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.12 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.12)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.12 修复“上一个桌面”图标空白，前后桌面使用成对的左右箭头图标。
 
 Mac 0.1.11 修复前后桌面切换无响应，改进最大化／还原和窗口居中的兼容处理。窗口调整等待真实位置和尺寸生效后再记录还原状态，受限窗口失败时尝试恢复原位置。已实测工具条点击、Chrome 最大化与还原、真实桌面往返切换。窗口操作及系统快捷键需要辅助功能权限。
 

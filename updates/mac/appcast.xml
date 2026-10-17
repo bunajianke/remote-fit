@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.11</title>
-      <pubDate>Sat, 17 Oct 2026 12:28:21 +0000</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.12</title>
+      <pubDate>Sat, 17 Oct 2026 15:16:20 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复上一个／下一个桌面无响应，保留方向键与功能键的系统标记并正确释放修饰键。改进最大化、居中的窗口兼容处理和主窗口回退；确认实际完成后再记录还原位置，受限窗口失败时尝试恢复。保留现有设置。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.11/RemoteFit-mac-universal.dmg" length="2410257" type="application/octet-stream" sparkle:edSignature="ZdsESk9BEC8tU96PfOVFxQi2RSb0d8kVN6LeU6Gt9XERSYpd0QBfX+dME+iEAoxQy2N7M8sXdeR2Ozx2kMkbCQ=="></enclosure>
+      <description>修复“上一个桌面”按钮图标空白，前后桌面统一使用成对的左右箭头图标。保留现有设置。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.12/RemoteFit-mac-universal.dmg" length="2410196" type="application/octet-stream" sparkle:edSignature="A9vkDleMVeMKp0VCiILyHUND2Z5+mLIomOTJgYQBAUp0GDeBfn/ggAEVMh+L8naIi1NapQ8u7RnpsQ3IbYNtDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: R5/kmbgSO6BBz6ZauqVkAXtv7DZNMMR/1vC3HeMHJaCNj+qFdK0nNocRJNblwDWjKInn4bGRF3bJtRJaK68aDA==
-length: 1489
+edSignature: opXrItxjIalYS5dhcIvw1Ju3k8JGqrJ6SdcaNUoLhdvDCsrseSryrQVs3fAzu6vCehHB1fIiR15cgMl0BkHkDg==
+length: 1330
 -->
