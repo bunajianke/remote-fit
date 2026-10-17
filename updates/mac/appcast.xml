@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.10</title>
-      <pubDate>Sat, 17 Oct 2026 09:26:49 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.11</title>
+      <pubDate>Sat, 17 Oct 2026 12:28:21 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复点击工具侧栏后提示“请先切换到要操作的应用”：保留最近使用的其他应用作为目标，设置窗口或提示框获得焦点后仍可执行快捷操作。目标退出、侧栏隐藏或用户会话失活时清除记录。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.10/RemoteFit-mac-universal.dmg" length="2388262" type="application/octet-stream" sparkle:edSignature="YI6M0TR6qUGY9eV/i/VVmaTwnChEIKpsXLZVpOR5SWUcL2+Mu+AkCbTt+3ycayTinvTn8S3Xa1Dwy0aAwf5DAw=="></enclosure>
+      <description>修复上一个／下一个桌面无响应，保留方向键与功能键的系统标记并正确释放修饰键。改进最大化、居中的窗口兼容处理和主窗口回退；确认实际完成后再记录还原位置，受限窗口失败时尝试恢复。保留现有设置。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.11/RemoteFit-mac-universal.dmg" length="2410257" type="application/octet-stream" sparkle:edSignature="ZdsESk9BEC8tU96PfOVFxQi2RSb0d8kVN6LeU6Gt9XERSYpd0QBfX+dME+iEAoxQy2N7M8sXdeR2Ozx2kMkbCQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: X/ZSgrxx/7Hvh8NyqXqV9qnnAmbwyDOI/uwq9uiGxvI8BovKSma7ubcdolzhskFo6Lt555niOCkRZuR0vukdCg==
-length: 1462
+edSignature: R5/kmbgSO6BBz6ZauqVkAXtv7DZNMMR/1vC3HeMHJaCNj+qFdK0nNocRJNblwDWjKInn4bGRF3bJtRJaK68aDA==
+length: 1489
 -->
