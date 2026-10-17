@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.12 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.12)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.13 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.13)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.13 改用不激活应用的原生工具栏按钮，保留原操作目标；作为菜单栏工具运行，避免 Command+Tab 切回 Remote Fit。提示气泡锚定触发按钮。设置仍可从工具条或菜单栏打开。
 
 Mac 0.1.12 修复“上一个桌面”图标空白，前后桌面使用成对的左右箭头图标。
 

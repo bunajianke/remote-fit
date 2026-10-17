@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.12</title>
-      <pubDate>Sat, 17 Oct 2026 15:16:20 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.13</title>
+      <pubDate>Sat, 17 Oct 2026 16:08:28 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复“上一个桌面”按钮图标空白，前后桌面统一使用成对的左右箭头图标。保留现有设置。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.12/RemoteFit-mac-universal.dmg" length="2410196" type="application/octet-stream" sparkle:edSignature="A9vkDleMVeMKp0VCiILyHUND2Z5+mLIomOTJgYQBAUp0GDeBfn/ggAEVMh+L8naIi1NapQ8u7RnpsQ3IbYNtDw=="></enclosure>
+      <description>工具栏改用不激活应用的原生按钮，保留目标窗口；改为菜单栏工具，避免切换应用时切回 Remote Fit。提示气泡锚定触发按钮，修正尖角位置与背景。保留现有设置。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.13/RemoteFit-mac-universal.dmg" length="2382511" type="application/octet-stream" sparkle:edSignature="Q6kXyNERsKDyefQo4z5C+YMfvv3Vjq8Pdd4kRjlDU+NnWnwVSgeVJUG7YvBomi90lzGY3vwGmmldDhFLe8iyDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: opXrItxjIalYS5dhcIvw1Ju3k8JGqrJ6SdcaNUoLhdvDCsrseSryrQVs3fAzu6vCehHB1fIiR15cgMl0BkHkDg==
-length: 1330
+edSignature: JHAgEbG8lUrA9RZNBzzr9L6pofiN3uI/fzls6UrGT3x4MbOO0SVv6SwFJA+G/s9Pbfjbba/xO3w8fqqcf7XcDw==
+length: 1425
 -->
