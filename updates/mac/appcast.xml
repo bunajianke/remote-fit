@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.15</title>
-      <pubDate>Mon, 19 Oct 2026 03:39:43 +0000</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.16</title>
+      <pubDate>Mon, 19 Oct 2026 04:36:05 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>工具条可收起为圆形悬浮按钮，再点展开；自动保存收起状态。自由模式支持拖动悬浮按钮，收起时释放窗口避让区域。统一图标留白并缩短设置上方分割线。沿用固定测试签名。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.15/RemoteFit-mac-universal.dmg" length="2416867" type="application/octet-stream" sparkle:edSignature="HIaenDjxYUcLAs2TjeZabx+m1ctodkv0yRrccqOX9JpHq0Xvzj7kSQIADSa6GYgLMIeKfuu1TQP3w0JVheLyDQ=="></enclosure>
+      <description>悬浮按钮改为正圆和对称阴影。工具条固定右侧，隐藏位置选项；收起按钮固定在设置按钮附近，不支持拖动。收起时释放窗口避让区域，展开后再预留。沿用固定签名。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.16/RemoteFit-mac-universal.dmg" length="2415560" type="application/octet-stream" sparkle:edSignature="1Li2WGPGh1tVPB6WV6/svZpGY0yGIUaNqN9O5m02JYqkWDWjc5BAUv0S74YHVNmZN5RfyLkspkIHNGFkqYuoBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: HYvZzy7JblfefYCYrYkW/qGqyJL+GTcZLFlEEPLKDd+3PQkhr033Er4OvzmI71O80JQcWWxmcZ9R6CvV9M/cBw==
-length: 1444
+edSignature: NE9WwKAZkhSIP9M/tlg3HbLkOvrISybjz50h5TurlMkqoZVFkij5zBkdy6KTk9GX301Pqr0VTumBcBC1LWZWDw==
+length: 1432
 -->
