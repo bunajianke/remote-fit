@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.18</title>
-      <pubDate>Mon, 19 Oct 2026 04:54:38 +0000</pubDate>
-      <sparkle:version>19</sparkle:version>
-      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.19</title>
+      <pubDate>Mon, 19 Oct 2026 07:41:42 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复工具按钮高亮圆角，使悬停和按下轮廓与工具条外框及内边距协调，复制、收起、设置等按钮统一处理。保留 2 点紧凑避让间距和固定右侧的圆形悬浮按钮。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.18/RemoteFit-mac-universal.dmg" length="2421486" type="application/octet-stream" sparkle:edSignature="Iq1nDmNL/U4pyb0g30kzSm6gB4kMfmxUyF+EsrP6w1Ls8VDJPjYgLZNXzbjdI4KV+mypjC3DV6Ho0U5kJB+YBQ=="></enclosure>
+      <description>工具条默认按当前逻辑分辨率自动调整大小，图标、文字、点击区域和悬浮按钮同步缩放。新增自动／标准／大号选项，修改后立即生效。保留 2 点紧凑避让间距，收起后释放预留区域。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.19/RemoteFit-mac-universal.dmg" length="2446849" type="application/octet-stream" sparkle:edSignature="OaDJSA2TXh+Y8M0pQdK1YWCj7nSFRetVTwuyZstfWKL5+yvZT6SrVaL4xnFYNS2dAF+B6KNZRTFXp7wz9+lVDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RP2IX91O81tnH/2LAb8bvFknKoo0kUob/K8e9mzlb3lMoykAA8/DErFz0+wmnyNUZbZ57K8rptknBcx6uQQHCw==
-length: 1420
+edSignature: rkDvt1eHETILhHOmWn5mnGIQcEt/ds4NpU0h9UBUBgERYgJ5ueLcoGRY9fpWGT7LNFRXelJOrrasqxrnpe9dBQ==
+length: 1453
 -->

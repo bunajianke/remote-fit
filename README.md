@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.18 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.18)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.19 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.19)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.19 工具条按实际逻辑分辨率自动调整图标、文字与点击区域，收起按钮同步保持正圆。新增“自动／标准／大号”，即时生效并保存；窗口避让按实际宽度计算，间距仍为 2 点。
 
 Mac 0.1.18 修复工具按钮高亮圆角，悬停和按下轮廓与工具条外框及内边距协调，复制、收起和设置等按钮统一处理。
 
