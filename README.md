@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.14 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.14)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.15 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.15)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.15 增加工具条收起功能：点击“收起”变为圆形悬浮按钮，再点展开，自动记住收起状态。自由模式可拖动悬浮按钮；收起时恢复自动避让的窗口，展开后重新预留区域。同步优化图标和文字留白、设置上方分割线，沿用固定测试签名身份。
 
 Mac 0.1.14 固定自签名测试证书，后续版本沿用同一签名身份，避免临时签名随构建变化而使旧授权失效。从 0.1.13 或更早版本升级后，仍需自行刷新一次辅助功能授权。自签名测试证书不等同于 Developer ID 签名或苹果公证。
 
