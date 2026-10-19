@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.19</title>
-      <pubDate>Mon, 19 Oct 2026 07:41:42 +0000</pubDate>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.20</title>
+      <pubDate>Mon, 19 Oct 2026 07:55:57 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>工具条默认按当前逻辑分辨率自动调整大小，图标、文字、点击区域和悬浮按钮同步缩放。新增自动／标准／大号选项，修改后立即生效。保留 2 点紧凑避让间距，收起后释放预留区域。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.19/RemoteFit-mac-universal.dmg" length="2446849" type="application/octet-stream" sparkle:edSignature="OaDJSA2TXh+Y8M0pQdK1YWCj7nSFRetVTwuyZstfWKL5+yvZT6SrVaL4xnFYNS2dAF+B6KNZRTFXp7wz9+lVDw=="></enclosure>
+      <description>修复自动大小在本地高分辨率下也被放大的问题：非远程状态保持标准大小，只有已确认的远程会话按逻辑分辨率放大。断开后恢复标准，手动标准／大号选项保持有效。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.20/RemoteFit-mac-universal.dmg" length="2448646" type="application/octet-stream" sparkle:edSignature="4+04TyyFAnVdE7Be3VuxMJ1i9Xc/KOVyKfDM4LgulqKJ70KehuXtmErwLNsMAjIGbTnnuTjopvtzmjckoLrPBA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rkDvt1eHETILhHOmWn5mnGIQcEt/ds4NpU0h9UBUBgERYgJ5ueLcoGRY9fpWGT7LNFRXelJOrrasqxrnpe9dBQ==
-length: 1453
+edSignature: 8VjfIIVdf7mWN+VaNMtHXynVMNfcz+PbB1hSe9vCTr4TtvvSeE1gYnH2px46uun72v6egdpOLIuDQg+MpQZnBA==
+length: 1432
 -->
