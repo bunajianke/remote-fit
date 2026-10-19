@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.13</title>
-      <pubDate>Sat, 17 Oct 2026 16:08:28 +0000</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.14</title>
+      <pubDate>Mon, 19 Oct 2026 02:44:09 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>工具栏改用不激活应用的原生按钮，保留目标窗口；改为菜单栏工具，避免切换应用时切回 Remote Fit。提示气泡锚定触发按钮，修正尖角位置与背景。保留现有设置。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.13/RemoteFit-mac-universal.dmg" length="2382511" type="application/octet-stream" sparkle:edSignature="Q6kXyNERsKDyefQo4z5C+YMfvv3Vjq8Pdd4kRjlDU+NnWnwVSgeVJUG7YvBomi90lzGY3vwGmmldDhFLe8iyDw=="></enclosure>
+      <description>固定测试签名身份，后续更新沿用同一证书。从旧版首次迁移仍需刷新一次辅助功能授权；设置保持不变。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.14/RemoteFit-mac-universal.dmg" length="2395928" type="application/octet-stream" sparkle:edSignature="h8X+PeL1t8ZW5gztLg/xtHDXZsJQDhHAKCi6wdhdeKSTc+GiOS12c80QXsTK0avs+dCsaooBoSciYu/OLZG1Bw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JHAgEbG8lUrA9RZNBzzr9L6pofiN3uI/fzls6UrGT3x4MbOO0SVv6SwFJA+G/s9Pbfjbba/xO3w8fqqcf7XcDw==
-length: 1425
+edSignature: bZMHH4qECJYJfsf5rXCzeQzILw9i1k1Q2q7kFhPn/N4jauqFJPWqv13iU3HMln9RZlFeCcjtK9iboQdzOINeAg==
+length: 1348
 -->
