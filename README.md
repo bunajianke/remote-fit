@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.16 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.16)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.17 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.17)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.17 将工具条与其他窗口的避让间距从 8 点缩小到 2 点，减少低分辨率下的空隙。自动避让与最大化使用相同间距，收起或隐藏后释放预留区域。
 
 Mac 0.1.16 修复悬浮按钮轮廓，使用独立正圆和对称阴影。工具条固定右侧，位置选项暂时隐藏；收起按钮固定在设置按钮附近，不支持拖动。收起时释放窗口避让区域，展开后再预留。
 
