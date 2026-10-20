@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.21</title>
-      <pubDate>Mon, 19 Oct 2026 08:39:29 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.22</title>
+      <pubDate>Tue, 20 Oct 2026 02:27:58 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复操作提示的箭头挤进圆角、出现右下角尾巴的问题。气泡改用独立面板与短箭头，按触发按钮定位，边缘时调整位置并保持箭头根部与圆角分离。保留知道了和辅助功能设置入口。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.21/RemoteFit-mac-universal.dmg" length="2341180" type="application/octet-stream" sparkle:edSignature="ErGUeXd7Iu9K1Ezze8M+sElrgujeJia/NmZEFgTuJgo3Ybt0zh6qcuILgjvyB0ZCctibWEv7Gftj5puh0UhfBA=="></enclosure>
+      <description>改进清晰度匹配：相同逻辑尺寸与刷新率下保持 Retina 像素比例；多档匹配同一实际尺寸时显示说明。连接中选择即时生效，保留最初模式供断开还原。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.22/RemoteFit-mac-universal.dmg" length="2350398" type="application/octet-stream" sparkle:edSignature="bCQADOWR9o68LrC8idUhId94f64jPXpIXRmfDYMD5407mmacZJYfQ38NoeVOZ8q4OlAelEB1am8orM+q9hfNBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jrLYegM9PSF0CSWNdhMarOAWMu3x0iwJz84TOQIb+krLTpdW6MFlaNr4KNXnD41jxLIxp5uTz4PaU3I8UwOvDQ==
-length: 1450
+edSignature: pwTSLUyQfdKSlDqcS02ZZfWVR1jE/jv7op5AXlSLOjoivNFzzXwqgw5wJTb2LEsurF+rZZGzk9PScQJ1jfpWBQ==
+length: 1407
 -->
