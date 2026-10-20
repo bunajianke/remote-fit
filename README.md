@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.22 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.22)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.23 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.23)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.23 增加关屏远程适配：实体屏全部离线时，UU 连接后按设备模板和清晰度创建临时虚拟屏，连接中切换倍率直接改尺寸，结束或退出后移除。实体屏配置单独保留，重新开屏时恢复对应流程。无需安装驱动。
 
 Mac 0.1.22 改进清晰度自动匹配：相同逻辑尺寸和刷新率下保持当前 Retina 像素比例；多档清晰度匹配到同一实际尺寸时明确提示画面不会变化，目标尺寸不可用时说明替代尺寸。连接中选择即时应用，断开后仍还原最初模式。
 
@@ -48,6 +50,6 @@ Windows 10/11，x64 或 ARM64。Mac 需要 macOS 14 或更新版本，支持 App
 
 Mac 已接入 UU 被控会话检测；向日葵、ToDesk 自动检测仍待适配。Windows 内置 RDP/WTS 检测，第三方远控目前使用手动会话、日志或回调接入。无法识别的远控软件可使用手动会话。
 
-仅使用系统或驱动提供的显示模式；Windows 可尝试驱动接受的自定义模式。没有创建任意尺寸虚拟屏的功能。Mac 版仍处于测试阶段。
+仅使用系统或驱动提供的显示模式；Windows 可尝试驱动接受的自定义模式。Mac 在实体屏全部离线时支持按目标尺寸创建临时虚拟屏，远程结束后移除；实体屏仍使用系统或驱动提供的模式。Mac 版仍处于测试阶段。
 
 此公开仓库仅分发安装包和更新信息，应用源码保存在私有仓库。
