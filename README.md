@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.23 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.23)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.24 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.24)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.24 将关屏虚拟屏改为 Retina 渲染，桌面空间与像素分别计算：16:9 的 2× 保持 1280×720 桌面，使用 2560×1440 像素。明确选中并核对实际 HiDPI 模式，避免缓存的小尺寸模式；倍率选择器改名为“桌面空间”，保留已有选择。
 
 Mac 0.1.23 增加关屏远程适配：实体屏全部离线时，UU 连接后按设备模板和清晰度创建临时虚拟屏，连接中切换倍率直接改尺寸，结束或退出后移除。实体屏配置单独保留，重新开屏时恢复对应流程。无需安装驱动。
 

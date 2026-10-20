@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.23</title>
-      <pubDate>Tue, 20 Oct 2026 13:39:46 +0000</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.24</title>
+      <pubDate>Tue, 20 Oct 2026 14:06:31 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>新增关屏远程适配：实体屏全部离线时，按设备模板与清晰度创建临时虚拟屏，连接中倍率即时改尺寸，结束后移除并保留实体屏配置。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.23/RemoteFit-mac-universal.dmg" length="2396115" type="application/octet-stream" sparkle:edSignature="HGJ/rUcstoH1Pfjg4qHJqGeN3/VOSAGpAWQ6bPhE/KB5KNqOw8DPGocBNfcKPlXydCNU7OfVtvfewFDckiKJBg=="></enclosure>
+      <description>关屏虚拟屏改为 Retina 渲染：2× 桌面空间保持 1280×720，使用 2560×1440 像素；明确选择并核对 HiDPI 模式。倍率改名为桌面空间，保留已有设置。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.24/RemoteFit-mac-universal.dmg" length="2411009" type="application/octet-stream" sparkle:edSignature="isTiKedAuVzh9HKn/lJuKOiWGaC+HySBgXn2+SDzZ9WWcMSijN0zaVAt6dlWEMV7Rxoz6cPFBiQGAzJsnrFBCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0Z0f5YBSaSaT4SSidCJhaWaQVRqFqfh5z2wqm29KssdmYtnOiamOv1Y2A6zO45OxUc53v6kfogrgP/kAeREKCg==
-length: 1387
+edSignature: 3vjODzvGyrm31h341ttv0V7cVAu20eO2ILHz4YNQErPm2OoweVHh+N5CR9yPCJxPjFqY2VtpibNM8qLWpeDuDw==
+length: 1395
 -->
