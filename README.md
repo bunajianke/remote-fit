@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.25 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.25)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.26 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.26)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.26 工具栏支持按住上下滑动，从按钮或按钮间空白处开始均可滚动。滑动后松手不执行操作，轻点仍正常；滚轮、触控板及上下箭头继续保留。
 
 Mac 0.1.25 修复低分辨率下大号工具栏操作被裁切、无法滚动的问题。操作区域可上下滚动，溢出时提供上下翻动按钮；收起与设置固定在底部。保留既有显示与工具栏配置。
 

@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.25</title>
-      <pubDate>Wed, 21 Oct 2026 02:27:37 +0000</pubDate>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.26</title>
+      <pubDate>Thu, 22 Oct 2026 11:09:58 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复低分辨率下大号工具栏操作被裁切、无法滚动的问题。新增溢出时的上下翻动入口，底部收起和设置保持固定。保留现有配置与签名身份。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.25/RemoteFit-mac-universal.dmg" length="2444462" type="application/octet-stream" sparkle:edSignature="KW/Oiycs35XRnsEIQQ0N7W/f59JXQrw6K68zzeaivuMCEApHxQd8DsZdu5scO6Al5/u8xvtEE8xXfx6OOetRBg=="></enclosure>
+      <description>工具栏支持按住上下滑动，按钮或按钮间空白处均可开始。滑动后松手不触发快捷操作，轻点仍正常执行。保留已有配置与签名身份。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.26/RemoteFit-mac-universal.dmg" length="2450685" type="application/octet-stream" sparkle:edSignature="Q3IpN+znFhBgnLgZCi/SscU0VGnX0AF+t/ClxqIv3XaH8O6zy51J2SHVEfhslvomt/yTh/5h6OvLCxqVpAR1Dg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: szeZQrE1/EOCSo81pLcDaaaS2H8hAH88HqBIORzcilf8ISMJE0csIo/i8Xyn7Qy/8Xz0YKd7GgTRISTNV+tABg==
-length: 1396
+edSignature: +sHRW0hHMgxqzVjTy5CSr0rZ5ld+d9i3IVFCWqO8e9QVZpSps02wQUjQcKxXrAmiplcu5E0fCMESuAL9v2SVAw==
+length: 1384
 -->
