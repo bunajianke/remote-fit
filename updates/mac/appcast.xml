@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.26</title>
-      <pubDate>Thu, 22 Oct 2026 11:09:58 +0000</pubDate>
-      <sparkle:version>27</sparkle:version>
-      <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.27</title>
+      <pubDate>Tue, 27 Oct 2026 09:00:25 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>工具栏支持按住上下滑动，按钮或按钮间空白处均可开始。滑动后松手不触发快捷操作，轻点仍正常执行。保留已有配置与签名身份。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.26/RemoteFit-mac-universal.dmg" length="2450685" type="application/octet-stream" sparkle:edSignature="Q3IpN+znFhBgnLgZCi/SscU0VGnX0AF+t/ClxqIv3XaH8O6zy51J2SHVEfhslvomt/yTh/5h6OvLCxqVpAR1Dg=="></enclosure>
+      <description>工具栏新增屏幕 Popover，可直接切换设备模板与桌面倍率，自动保存并按连接设置应用。面板显示目标尺寸，保持打开并跟随工具栏定位，保留原始桌面还原记录。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.27/RemoteFit-mac-universal.dmg" length="2517722" type="application/octet-stream" sparkle:edSignature="fIbBvC7pK6eB6csX7nXs78bA4FsvXiOHW02JM6JmOuiSh5GjfxvM9+ECP7LxTMKFJTxEojDDbH3ZDlCT8S0kDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +sHRW0hHMgxqzVjTy5CSr0rZ5ld+d9i3IVFCWqO8e9QVZpSps02wQUjQcKxXrAmiplcu5E0fCMESuAL9v2SVAw==
-length: 1384
+edSignature: dhEGyslAxgfF92DZ7ozchufmIO86gBJs+P91m2UfDA1Me5yVguuY1WNqemy2+Eo+PsHpswavStqF2WbUFGRPAQ==
+length: 1422
 -->
