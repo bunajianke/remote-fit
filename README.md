@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.27 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.27)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.28 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.28)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.28 改善 20:9 等非标准比例的远程兼容性：1.5× 微调为 1336×600，2× 为 1776×800，Retina 渲染宽度对齐。虚拟屏成功应用后，模式通知不会触发持续重新配置，减少与远程客户端反复切换；选择新目标与断开还原流程保留。
 
 Mac 0.1.27 工具栏新增“屏幕”快捷 Popover，可直接切换设备模板和桌面倍率，并查看目标尺寸。修改自动保存，远程连接中按自动应用设置切换，关屏虚拟屏同样支持。面板保持打开、跟随工具栏定位，保留原桌面恢复记录。
 
