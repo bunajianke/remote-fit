@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.28</title>
-      <pubDate>Wed, 28 Oct 2026 04:26:52 +0000</pubDate>
-      <sparkle:version>29</sparkle:version>
-      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.29</title>
+      <pubDate>Wed, 28 Oct 2026 06:59:41 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>改善 20:9 等非标准比例的远程兼容性；Retina 宽度对齐，避免虚拟屏因模式通知持续重新配置。切换目标与断开还原流程保留。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.28/RemoteFit-mac-universal.dmg" length="2520932" type="application/octet-stream" sparkle:edSignature="5/uNc6knGYmcINfg6QP/SuxEKOhqlCqJUnUEKMXNidhiS54Wo0lTlldZx/i1ZZ2R0cu573e25I6K+B1QCXJsCg=="></enclosure>
+      <description>改善关屏远程中切换模板或倍率后的点击错位；通过系统标准显示模式接口完成尺寸切换，保留 Retina 渲染、刷新率与原配置。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.29/RemoteFit-mac-universal.dmg" length="2525561" type="application/octet-stream" sparkle:edSignature="rNFtHkeQkmHFIdpCq9n6TsBdAj+0qEULMwexXw74T/bJ8A0EFF0tfd3JFGJx/TmCzVxiy0PUYqdJnHnZYmJSDA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2aikF8ueThSVD+/nP6PciwqY5fudj87lctF41nw6lcwuar3JcUzVZ+UQpoo6XDIqa04lzbc82pnOZ320AEOWCg==
-length: 1373
+edSignature: eKdayj688bEvtoCF7BhLhsbX67Z7/RomIwGlTMY2jkfZWYqY++lL3j/E+x1MuXDyqcI5qdAPW5HXEnKcXVHqBg==
+length: 1374
 -->
