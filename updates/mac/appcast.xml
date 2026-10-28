@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.1.29</title>
-      <pubDate>Wed, 28 Oct 2026 06:59:41 +0000</pubDate>
-      <sparkle:version>30</sparkle:version>
-      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+      <title>Remote Fit 0.1.30</title>
+      <pubDate>Wed, 28 Oct 2026 07:49:18 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>改善关屏远程中切换模板或倍率后的点击错位；通过系统标准显示模式接口完成尺寸切换，保留 Retina 渲染、刷新率与原配置。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.29/RemoteFit-mac-universal.dmg" length="2525561" type="application/octet-stream" sparkle:edSignature="rNFtHkeQkmHFIdpCq9n6TsBdAj+0qEULMwexXw74T/bJ8A0EFF0tfd3JFGJx/TmCzVxiy0PUYqdJnHnZYmJSDA=="></enclosure>
+      <description>改进工具栏点击时意外弹出主窗口的问题；普通操作、屏幕快捷面板及收起展开不自动唤起主窗口，显式设置入口仍可打开。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.1.30/RemoteFit-mac-universal.dmg" length="2526329" type="application/octet-stream" sparkle:edSignature="nKnK5YCz/woHx8e/Og0dzu1QoNH3og2jcRGmKpe94em39wT1jJjDQrJmA6kcHeM2W0ojNT9iI8OaYc8wwO6nAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eKdayj688bEvtoCF7BhLhsbX67Z7/RomIwGlTMY2jkfZWYqY++lL3j/E+x1MuXDyqcI5qdAPW5HXEnKcXVHqBg==
-length: 1374
+edSignature: m/6uJSh1r72d4Eo16HouPCA8EtiLuzgdCZ+PoLzVd199G1d8uy147GjKNBbbRVYV+j8R7DOiiCQsr3OFhru1Dg==
+length: 1372
 -->

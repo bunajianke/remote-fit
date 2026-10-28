@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.1.29 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.29)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.1.30 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.1.30)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.1.30 改进工具栏点击时意外弹出主窗口的问题：取消应用重新打开事件中的自动唤起，并抑制按钮默认抢焦点。屏幕快捷面板、收起和展开保持在工具栏中；显式点击“设置”或设置菜单仍可打开主窗口。
 
 Mac 0.1.29 改善关屏远程中切换分辨率后的点击错位：通过系统标准显示模式接口完成模板或倍率切换，最终验证逻辑尺寸、Retina 像素与 60 Hz。保留同一虚拟屏身份和实体屏配置，过渡尺寸不写入设置。
 
