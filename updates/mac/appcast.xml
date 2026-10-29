@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.2.1</title>
-      <pubDate>Thu, 29 Oct 2026 10:38:09 +0000</pubDate>
-      <sparkle:version>34</sparkle:version>
-      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <title>Remote Fit 0.2.2</title>
+      <pubDate>Thu, 29 Oct 2026 14:51:36 +0000</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复侧栏 Popover 定位，分辨率、应用面板及操作提示对准实际点击按钮，滚动或滑动时关闭旧面板。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.2.1/RemoteFit-mac-universal.dmg" length="2975208" type="application/octet-stream" sparkle:edSignature="I3TW8oGHuUQtlB5UoPReD8rSnw4eizAv16hZq+JRsXLSRjUw5qMHoZL/vJKvtuadkjacY6MXXk2m8yBWX4K/CA=="></enclosure>
+      <description>新增电脑远程模板：16:9 宽屏、16:10 与 3:2 笔记本、21:9 超宽屏；设置页与屏幕快捷面板均可选择，已有目标保持不变。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.2.2/RemoteFit-mac-universal.dmg" length="2975712" type="application/octet-stream" sparkle:edSignature="Fgnb4bzwzEplZxNMkK1h5Q9WWgU5k3952IlGbPlRNLE/TGrdU4ZmF6+am/B+qeb0TzQHBMeb0vM10br3/KuyAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zklMg98vir9xIAT+iVmYXJWdiraD7s/tM2wrsCw5vMvJBGmEW8BfuMbFADzpgWEWZHMyW/+8xl9OuzRUK5hPBQ==
-length: 1336
+edSignature: C662XOjXb+QVQPLO0GViSP2HaRTXgKg6LXU5V2ouiIrB+zJxp/mnSeaVX/dIgSPBmdwxsVc5pLNS0UbHAMSjBg==
+length: 1360
 -->
