@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.2.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.2.0)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.2.1 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.2.1)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.2.1 修复侧栏 Popover 位置偏移。分辨率、应用面板和操作提示按实际点击按钮定位，箭头对准按钮；屏幕边缘自动限制面板位置。
 
 Mac 0.2.0 重做原生设置流程：常规、分辨率、快捷操作、连接行为、触控五页，保存自己的分辨率规格与显示大小，独立选择连接目标。快捷操作支持排序、开关与编辑，增加应用选择面板；窗口最低 420×360，窄窗口和低高度自动使用页面菜单。旧目标与快捷键保留。新增系统电源断言与 ToDesk 检测路径、可选单指滚动和登录启动；ToDesk 与真实滚动输入尚待远程验证。
 
