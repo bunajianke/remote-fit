@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/bunajianke/remote-fit/releases</link>
     <description>Remote Fit macOS updates</description>
     <item>
-      <title>Remote Fit 0.2.4</title>
-      <pubDate>Fri, 30 Oct 2026 03:37:18 +0000</pubDate>
-      <sparkle:version>37</sparkle:version>
-      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <title>Remote Fit 0.2.5</title>
+      <pubDate>Fri, 30 Oct 2026 04:30:16 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>修复程序坞缩小后窗口仍被限制在原高度的问题；同步刷新工具栏避让区域，断开后恢复原有程序坞大小。</description>
-      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.2.4/RemoteFit-mac-universal.dmg" length="3063387" type="application/octet-stream" sparkle:edSignature="B7AqE8Yqd7vsZKbE8W6Cf73RtvV/uWjFRN9QnK/FtuEsknXVSy08u+Vj2QH8YgpCagM4KjDCyBLgI7/CS1THDA=="></enclosure>
+      <description>应用面板与工具栏等高，支持按住上下拖动浏览，至少保留两列应用；滑动结束不误触应用，轻点、滚轮和触控板继续支持。</description>
+      <enclosure url="https://github.com/bunajianke/remote-fit/releases/download/mac-v0.2.5/RemoteFit-mac-universal.dmg" length="3064217" type="application/octet-stream" sparkle:edSignature="HRe5N7jjiBglmw1L+wk4q0cZ5dIwNIeyrgatGyVYytO7ZBiiGRkkN7q0rDtwAP6v9lcIHuX5UC5CK1J0PkE1DQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zi0ApjtvmXcu6iwOc+YzpK+KcJw/HpHNJGFjzZ87EtBlZu3pJTmBUaMWoS8MHWWZFdefOzD+2z922nV8VLBHBw==
-length: 1345
+edSignature: +1gLjx9MqdPVA8K4QbBl44QI7cm3YL+UBnjUIQPbBInJUb6Kjk2BMcAjRmugeH9AzcqaQBr4yr7xsbFF+QaLBw==
+length: 1369
 -->
