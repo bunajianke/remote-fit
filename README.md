@@ -12,7 +12,9 @@
 
 Windows：前往 [Windows 0.3.0 下载页](https://github.com/bunajianke/remote-fit/releases/tag/v0.3.0)，选择对应架构的 **Setup.exe**，便携使用请选择完整的 **Portable.zip**。
 
-Mac：前往 [macOS 0.2.3 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.2.3)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+Mac：前往 [macOS 0.2.4 下载页](https://github.com/bunajianke/remote-fit/releases/tag/mac-v0.2.4)，下载 **RemoteFit-mac-universal.dmg**，将应用拖入“应用程序”。现有版本也可在软件内检查更新。
+
+Mac 0.2.4 修复远程程序坞缩小后，窗口底边仍受原高度限制的问题；同步刷新工具栏避让区域，断开后还原程序坞大小。
 
 Mac 0.2.3 新增远程程序坞设置：保持原样、缩小至不超过 32 点、自动隐藏；断开后恢复，支持异常恢复记录并保留手动改动。触控页增加独立的“反转远程滚动方向”，默认关闭，仅反转来源明确的远程滚动，本地输入保持原样。程序坞设置在已确认的远程会话中生效，暂不区分手机与电脑客户端。
 
